@@ -1,4 +1,4 @@
-name: 小红书美股舆情爬虫
+name: RedNote舆情爬虫
 
 on:
   schedule:
